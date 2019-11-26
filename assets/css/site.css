@@ -1,0 +1,23 @@
+div.tech:nth-child(3) {
+    clear: right;
+}
+
+a {
+	text-decoration: none;
+}
+
+strong p {
+	display: inline;
+}
+
+.me {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 50%;
+	height: 50%;
+	border-radius: 10%;
+}
+
+.additional-interests {
+	line-height: 1;
+}

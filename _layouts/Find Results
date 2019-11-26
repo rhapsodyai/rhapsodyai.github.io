@@ -1,0 +1,113 @@
+Searching 51 files for "Melissa Auclaire"
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_config.yml:
+    1  # Site settings
+    2: title: Melissa Auclaire
+    3  description: Jekyll Theme Minimal Resume
+    4  # baseurl: "" # the subpath of your site, e.g. /blog
+    .
+    6  
+    7  # User settings
+    8: username: Melissa Auclaire
+    9  user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+   10  user_title: Software Engineer
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_includes/footer.html:
+    1  <footer class="footer">
+    2      <!-- <p>&copy; {{ site.username }}</p> -->
+    3:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Melissa Auclaire</a></p>
+    4  </footer>
+    5  <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_site/index.html:
+    7    <meta name="viewport" content="width=device-width, initial-scale=1">
+    8  
+    9:   <title>Melissa Auclaire</title>
+   10    <meta name="description" content="Jekyll Theme Minimal Resume">
+   11  
+   ..
+   89        <footer class="footer">
+   90      <!-- <p>&copy; Mauricio Urraco</p> -->
+   91:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Melissa Auclaire</a></p>
+   92  </footer>
+   93  <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+5 matches across 3 files
+
+
+Searching 51 files for "Mauricio"
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_config.yml:
+    7  # User settings
+    8  username: Melissa Auclaire
+    9: user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://melissaauclaire.com.com" target="_blank">https://melissaauclaire.com</a>
+   10  user_title: Software Engineer
+   11  email: rhapsody.ai@gmail.com
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_config.yml.save:
+    1  # Site settings
+    2: title: Melissa Auclaire
+    3  description: Resume Website
+    4  # baseurl: "/particle" # the subpath of your site, e.g. /blog
+    .
+    8  username: Lorem Ipsum
+    9  user_description: Software Engineer at Lorem Ipsum Dolor
+   10: user_title: Melissa Auclaire
+   11  email: rhapsody.ai@gmail.com
+   12  # twitter_username: kiyomizumia
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/LICENSE:
+    1  MIT License
+    2  
+    3: Copyright (c) 2017 Mauricio Urraco
+    4  
+    5  Permission is hereby granted, free of charge, to any person obtaining a copy
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/package.json:
+    7      "test": "echo \"Error: no test specified\" && exit 1"
+    8    },
+    9:   "author": "Mauricio Urraco <mauriurraco@gmail.com>",
+   10    "license": "MIT",
+   11    "dependencies": {
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/README.md:
+   49  username: Lorem Ipsum
+   50  user_description: Software Engineer at Lorem Ipsum Dolor
+   51: user_title: Mauricio Urraco
+   52  email: mauriurraco@gmail.com
+   53  ```
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_site/index.html:
+   18    <div class="header">
+   19        <h1>
+   20:         <span class="site-title">Mauricio Urraco</span>
+   21          <span class="site-description">Software Engineer</span>
+   22        </h1>
+   ..
+   38          <div class="user-details">
+   39    <h1>My Expertise</h1>
+   40:   <p>I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a></p>
+   41  </div>
+   42  <div class="user">
+   ..
+   88          
+   89        <footer class="footer">
+   90:     <!-- <p>&copy; Mauricio Urraco</p> -->
+   91      <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/murraco">Melissa Auclaire</a></p>
+   92  </footer>
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_site/LICENSE:
+    1  MIT License
+    2  
+    3: Copyright (c) 2017 Mauricio Urraco
+    4  
+    5  Permission is hereby granted, free of charge, to any person obtaining a copy
+
+/Users/kiyomizumia/Downloads/practice_webpages/jekyll-theme-minimal-resume/_site/README.md:
+   49  username: Lorem Ipsum
+   50  user_description: Software Engineer at Lorem Ipsum Dolor
+   51: user_title: Mauricio Urraco
+   52  email: mauriurraco@gmail.com
+   53  ```
+
+13 matches across 8 files
